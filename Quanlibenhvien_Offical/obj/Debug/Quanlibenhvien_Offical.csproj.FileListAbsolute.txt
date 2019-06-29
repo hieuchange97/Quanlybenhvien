@@ -1,0 +1,287 @@
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Quanlibenhvien_Offical.exe.config
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Quanlibenhvien_Offical.exe
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Quanlibenhvien_Offical.pdb
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Properties.Resources.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.csproj.GenerateResource.cache
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.exe
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.pdb
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Dangkykhambenh.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.csproj.CopyComplete
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\MaterialSkin.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\EntityFramework.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\EntityFramework.xml
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Bophankhambenh.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Batdaukhambenh.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Quanlybenhvien.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.user1.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Login.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Danhsachchokham.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\EnvDTE.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\stdole.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\EnvDTE80.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\VSLangProj.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\VSLangProj80.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\VSLangProj2.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.exe.config
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Phieudangkykhambenh.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\RdlCompile.cache
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\RdlCompile.compiled
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.kedonthuoc.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.ketquathanhcongForm.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.inphieukhambenhF.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.InbenhanF.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Phieuthanhtoanxetnghiem.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Lapphieudangkykhambenh.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.phieuhenkhamlaiF.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.bophanthanhtoanUC.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.bophanxetnghiemUC.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.sieuamUC.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.phieusieuamFr.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.bophanquanlyUC.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.quanlybophanUC.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.quanlynhanvienUC.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.quanlyphongbanUC.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.dichvuUC.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.nhanvienlamviecF.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.donthuocUC.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.csprojAssemblyReference.cache
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.donthuocIN.resources
+C:\Users\Hieu Programmer\source\repos\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.quanlyquyentruycapUC.resources
+D:\Quanlibenhvien_Offical\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Quanlibenhvien_Offical\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Quanlibenhvien_Offical\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Quanlibenhvien_Offical\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Quanlibenhvien_Offical.exe.config
+D:\Quanlibenhvien_Offical\bin\Debug\Quanlibenhvien_Offical.exe
+D:\Quanlibenhvien_Offical\bin\Debug\Quanlibenhvien_Offical.pdb
+D:\Quanlibenhvien_Offical\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Quanlibenhvien_Offical\bin\Debug\EntityFramework.dll
+D:\Quanlibenhvien_Offical\bin\Debug\EntityFramework.SqlServer.dll
+D:\Quanlibenhvien_Offical\bin\Debug\MaterialSkin.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Quanlibenhvien_Offical\bin\Debug\EnvDTE.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\stdole.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Quanlibenhvien_Offical\bin\Debug\EnvDTE80.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Quanlibenhvien_Offical\bin\Debug\VSLangProj.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\VSLangProj80.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Newtonsoft.Json.dll
+D:\Quanlibenhvien_Offical\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.MSXML.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.Build.Framework.dll
+D:\Quanlibenhvien_Offical\bin\Debug\VSLangProj2.dll
+D:\Quanlibenhvien_Offical\bin\Debug\EntityFramework.xml
+D:\Quanlibenhvien_Offical\bin\Debug\EntityFramework.SqlServer.xml
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Quanlibenhvien_Offical\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\Quanlibenhvien_Offical\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quanlibenhvien_Offical\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.exe.config
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Batdaukhambenh.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Bophankhambenh.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.bophanquanlyUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.bophanthanhtoanUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.bophanxetnghiemUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Dangkykhambenh.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Danhsachchokham.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.dichvuUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.donthuocIN.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.donthuocUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.inphieukhambenhF.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.kedonthuoc.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.ketquathanhcongForm.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Lapphieudangkykhambenh.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.nhanvienlamviecF.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Phieudangkykhambenh.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.phieuhenkhamlaiF.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.phieusieuamFr.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Phieuthanhtoanxetnghiem.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Quanlybenhvien.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Login.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.Properties.Resources.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.quanlynhanvienUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.quanlyphongbanUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.quanlyquyentruycapUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.sieuamUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.csproj.GenerateResource.cache
+D:\Quanlibenhvien_Offical\obj\Debug\RdlCompile.cache
+D:\Quanlibenhvien_Offical\obj\Debug\RdlCompile.compiled
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.csproj.CoreCompileInputs.cache
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.csproj.CopyComplete
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.exe
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.pdb
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.quanlykhoaUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.csprojAssemblyReference.cache
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.bhytForm.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.giaychuyenvienForm.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.chucvuUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.lichlamviecnhanvienUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.thongtinphongchucnangForm.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.chupxquangUC.resources
+D:\Quanlibenhvien_Offical\obj\Debug\Quanlibenhvien_Offical.phieuchupxquangForm.resources
